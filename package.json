@@ -1,0 +1,10 @@
+{
+  "name": "actions-exfil-sample",
+  "version": "1.0.0",
+  "description": "Just a super cool package you should use everywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Everything looks green!\" && exit 0"
+  },
+  "private": true
+}
